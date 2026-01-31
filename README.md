@@ -1036,7 +1036,6 @@ Average Revenue Comparison:
 
 #### 🎨 Application Screenshots
 
-> **Note**: Add actual screenshots of your application here
 
 **Screenshot 1: Main Dashboard**
 ![Dashboard Overview](DASHBOARD_OVERVIEW.png)

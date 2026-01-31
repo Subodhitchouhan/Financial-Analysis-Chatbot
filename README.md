@@ -1034,23 +1034,23 @@ Average Revenue Comparison:
 > **Note**: Add actual screenshots of your application here
 
 **Screenshot 1: Main Dashboard**
-![Dashboard Overview](screenshots/dashboard_home.png)
+![Dashboard Overview](DASHBOARD_OVERVIEW.png)
 *KPI cards showing key financial metrics for selected company*
 
 **Screenshot 2: Revenue Trend**
-![Revenue Chart](screenshots/revenue_trend.png)
+![Revenue Chart](Revenue_trend.png)
 *Interactive line chart displaying revenue growth over 25 years*
 
 **Screenshot 3: Company Comparison**
-![Comparison](screenshots/company_comparison.png)
+![Comparison](COMPANY_COMPARISION.png)
 *Bar charts comparing profit margins and debt ratios*
 
 **Screenshot 4: AI Chatbot**
-![Chatbot](screenshots/chatbot_interface.png)
+![Chatbot](CHATBOT.png)
 *Chatbot interface with predefined questions and custom input*
 
 **Screenshot 5: Chatbot Response**
-![Bot Response](screenshots/chatbot_response.png)
+![Bot Response](CHATBOT_RESPONSE.png)
 *Example of chatbot providing investment insight*
 
 ---
@@ -1453,10 +1453,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📞 Contact
 
-**Subodh Chouhan**  
-📧 Email: [your.email@example.com]  
-🔗 LinkedIn: [linkedin.com/in/yourprofile]  
-🐙 GitHub: [@Subodhitchouhan](https://github.com/Subodhitchouhan)  
+**Subodhit Chouhan**  
+📧 Email: chouhansubodhit@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/subodhitchouhan/ 
+🐙 GitHub: https://github.com/Subodhitchouhan
 🌐 Portfolio: [yourportfolio.com]  
 
 ---
@@ -1493,7 +1493,7 @@ If you found this project helpful or interesting:
 
 ### 🚀 Ready to explore financial data? [Try the Dashboard Now!](#-installation--setup)
 
-**Made with ❤️ by [Subodh Chouhan](https://github.com/Subodhitchouhan)**
+**Made with ❤️ by [Subodhit Chouhan](https://github.com/Subodhitchouhan)**
 
 *Built with Python, Streamlit, Plotly, and Pandas*
 
@@ -1520,8 +1520,3 @@ If you found this project helpful or interesting:
 
 ---
 
-<div align="center">
-
-**📌 Pin this project to your GitHub profile to showcase your skills!**
-
-</div>
